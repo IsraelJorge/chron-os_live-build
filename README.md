@@ -7,7 +7,8 @@ Bem-vindo ao repositório da distro Linux Chron-OS, desenvolvida utilizando a fe
 Chron-OS é uma distribuição Linux leve e flexível, projetada para oferecer um ambiente personalizado e eficiente. Originada de um projeto acadêmico da disciplina de Sistemas Operacionais, o Chron-OS teve como objetivo principal o desenvolvimento de um sistema operacional para o curso de Ciência da Computação.
 
 ## Download
-[Baixe a última versão do Chron-OS aqui](https://drive.google.com/file/d/1jKMVLyySp7l078Cs5R5R-ozTj4a9hyf9/view?usp=drive_link).
+<a href="https://drive.google.com/file/d/1jKMVLyySp7l078Cs5R5R-ozTj4a9hyf9/view?usp=drive_link" target="_blank">Baixe a última versão do Chron-OS aqui.</a>
+
 
 ## Live Build
 
