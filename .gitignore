@@ -1,0 +1,24 @@
+# Arquivos e diretórios específicos do live-build
+auto/
+binary/
+cache/
+chroot/
+debian-cd/
+doc/
+
+# Logs e arquivos temporários
+*.log
+*.gz
+*.xz
+*.iso
+*.build
+*.deb
+# Diretórios de saída
+out/
+build/
+
+# Arquivos temporários de configuração
+*.conf~
+
+# Arquivos de backup
+*~

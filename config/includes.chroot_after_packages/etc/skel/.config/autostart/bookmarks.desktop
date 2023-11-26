@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=bookmarks
+Comment=bookmarks
+Exec=/home/chronos/.config/gtk-3.0/configurar_bookmarks.sh
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false
+

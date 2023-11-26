@@ -1,0 +1,13 @@
+xfce4 
+xfce4-terminal
+network-manager-gnome 
+xinit 
+lightdm
+
+paper-icon-theme 
+plank
+xfce4-whiskermenu-plugin
+slick-greeter
+rofi
+fonts-firacode
+

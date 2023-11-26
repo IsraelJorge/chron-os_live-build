@@ -1,0 +1,41 @@
+#Title: Development
+#Section: Version control
+git
+colordiff
+dwdiff
+cloc
+mgitstatus
+
+#Section: Shell & basic utilities
+tilix
+zsh
+autojump
+bash-completion
+pv
+sed
+util-linux
+util-linux-locales
+whiptail
+moreutils
+less
+dialog
+manpages
+manpages-dev
+
+#Section: Parsers/converters/documentation generators
+jq
+groff
+dos2unix
+
+#Section: Packaging
+build-essential
+debconf-utils
+
+#Section: Python
+python3-setuptools
+python3-wheel
+python3-pip
+python3-venv
+python3-all-dev
+
+
