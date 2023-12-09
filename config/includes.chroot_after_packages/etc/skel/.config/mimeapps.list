@@ -1,10 +1,13 @@
 [Added Associations]
-application/x-desktop=code.desktop;
+application/x-desktop=code.desktop;vim.desktop;
 application/xml=code.desktop;
 inode/directory=xfce4-file-manager.desktop;
 x-scheme-handler/trash=xfce4-file-manager.desktop;
+application/x-executable=code.desktop;
+text/plain=code.desktop;
 
 [Default Applications]
 inode/directory=xfce4-file-manager.desktop
 x-scheme-handler/trash=xfce4-file-manager.desktop
-
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_gabriel_Downloads_eclipse_.desktop
+x-scheme-handler/eclipse+installer=_home_gabriel_Downloads_eclipse-installer_.desktop

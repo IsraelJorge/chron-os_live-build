@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Eclipse
+Comment=Eclipse
+Exec=/home/gabriel/eclipse/eclipse/eclipse/eclipse
+Icon=/home/gabriel/eclipse/eclipse//eclipse/icon.xpm
+Terminal=false
+Type=Application

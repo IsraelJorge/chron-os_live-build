@@ -2,23 +2,26 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///media/chronos/6bb85858-8a60-4896-9979-c87de997086d": "__default__profile__"
+            "file:///media/chronos/6bb85858-8a60-4896-9979-c87de997086d": "__default__profile__",
+            "file:///home/gabriel/.config/applications": "__default__profile__",
+            "file:///home/gabriel/.config": "__default__profile__",
+            "file:///etc/xdg/menus": "__default__profile__",
+            "file:///usr/share/applications": "__default__profile__",
+            "file:///home/gabriel/.local/share/applications": "__default__profile__"
         },
-        "emptyWindows": {
-            "1701034054603": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
     "telemetry.machineId": "e61ae403c14849d50ad08e0d3942f02a69fef5e951e111d5eff6d056bbe92f40",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1701034054603"
+                "folderUri": "file:///home/gabriel/.local/share/applications"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -58,11 +61,65 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/gabriel/.local/share/applications",
+                                        "path": "/home/gabriel/.local/share/applications",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local/share/applications"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///usr/share/applications",
+                                        "path": "/usr/share/applications",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/usr/share/applications"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///etc/xdg/menus",
+                                        "path": "/etc/xdg/menus",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/etc/xdg/menus"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/gabriel/.config",
+                                        "path": "/home/gabriel/.config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/gabriel/.config/applications",
+                                        "path": "/home/gabriel/.config/applications",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/applications"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -82,111 +139,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.zshrc",
-                                        "path": "/home/chronos/.zshrc",
+                                        "external": "file:///home/gabriel/.local/share/desktop-directories/bd.directory",
+                                        "path": "/home/gabriel/.local/share/desktop-directories/bd.directory",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.zshrc"
+                                    "label": "~/.local/share/desktop-directories/bd.directory"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.config/rofi/config.rasi",
-                                        "path": "/home/chronos/.config/rofi/config.rasi",
+                                        "external": "file:///home/gabriel/.local/share/desktop-directories/pg.directory",
+                                        "path": "/home/gabriel/.local/share/desktop-directories/pg.directory",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/rofi/config.rasi"
+                                    "label": "~/.local/share/desktop-directories/pg.directory"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.config/gtk-3.0/bookmarks",
-                                        "path": "/home/chronos/.config/gtk-3.0/bookmarks",
+                                        "external": "file:///home/gabriel/.local/share/desktop-directories/redes.directory",
+                                        "path": "/home/gabriel/.local/share/desktop-directories/redes.directory",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/gtk-3.0/bookmarks"
+                                    "label": "~/.local/share/desktop-directories/redes.directory"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.config/Thunar/accels.scm",
-                                        "path": "/home/chronos/.config/Thunar/accels.scm",
+                                        "external": "file:///home/gabriel/.local/share/desktop-directories/es.directory",
+                                        "path": "/home/gabriel/.local/share/desktop-directories/es.directory",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/Thunar/accels.scm"
+                                    "label": "~/.local/share/desktop-directories/es.directory"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.config/Thunar/uca.xml",
-                                        "path": "/home/chronos/.config/Thunar/uca.xml",
+                                        "external": "file:///home/gabriel/.config/menus/xfce-applications.menu",
+                                        "path": "/home/gabriel/.config/menus/xfce-applications.menu",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/Thunar/uca.xml"
+                                    "label": "~/.config/menus/xfce-applications.menu"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.config/user-dirs.dirs",
-                                        "path": "/home/chronos/.config/user-dirs.dirs",
+                                        "external": "file:///home/gabriel/.local/share/applications/staruml.desktop",
+                                        "path": "/home/gabriel/.local/share/applications/staruml.desktop",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/user-dirs.dirs"
+                                    "label": "~/.local/share/applications/staruml.desktop"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/Downloads/papirus-icon-theme/uninstall.sh",
-                                        "path": "/home/chronos/Downloads/papirus-icon-theme/uninstall.sh",
+                                        "external": "file:///usr/share/applications/code-url-handler.desktop",
+                                        "path": "/usr/share/applications/code-url-handler.desktop",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/papirus-icon-theme/uninstall.sh"
+                                    "label": "/usr/share/applications/code-url-handler.desktop"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/Downloads/papirus-icon-theme/install.sh",
-                                        "path": "/home/chronos/Downloads/papirus-icon-theme/install.sh",
+                                        "external": "file:///home/gabriel/.local/share/applications/cisco-pt821.desktop",
+                                        "path": "/home/gabriel/.local/share/applications/cisco-pt821.desktop",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/papirus-icon-theme/install.sh"
+                                    "label": "~/.local/share/applications/cisco-pt821.desktop"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.oh-my-zsh/oh-my-zsh.sh",
-                                        "path": "/home/chronos/.oh-my-zsh/oh-my-zsh.sh",
+                                        "external": "file:///home/gabriel/.config/menus",
+                                        "path": "/home/gabriel/.config/menus",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.oh-my-zsh/oh-my-zsh.sh"
+                                    "label": "~/.config/menus"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
-                                        "path": "/home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+                                        "external": "file:///home/gabriel/eclipse/java-2023-092/eclipse/eclipse.ini",
+                                        "path": "/home/gabriel/eclipse/java-2023-092/eclipse/eclipse.ini",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml"
+                                    "label": "~/eclipse/java-2023-092/eclipse/eclipse.ini"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -377,6 +434,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -572,7 +633,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -860,8 +922,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1375,6 +1436,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1745,39 +1811,40 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#282c34",
+    "themeBackground": "#1f1f1f",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#282c34",
-            "editorBackground": "#282c34",
-            "titleBarBackground": "#21252b",
-            "activityBarBackground": "#333842",
-            "sideBarBackground": "#21252b",
-            "statusBarBackground": "#21252b",
-            "statusBarNoFolderBackground": "#21252b"
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 256,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/chronos/.config/Code/Backups/1701034054603",
+            "folder": "file:///home/gabriel/.local/share/applications",
+            "backupPath": "/home/gabriel/.config/Code/Backups/8fc50c6a0f0a699a067232776ec7063b",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 70,
-                "width": 2558,
-                "height": 901
+                "width": 1918,
+                "height": 861
             }
         },
         "openedWindows": []

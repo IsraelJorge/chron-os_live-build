@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Eclipse IDE for Java Developers - 2023-09
+StartupWMClass=Eclipse
+Exec=env GTK_IM_MODULE=fcitx /home/gabriel/eclipse/java-2023-092/eclipse/eclipse
+Categories=Eclipse
+Icon=/home/gabriel/eclipse/java-2023-092/eclipse/icon.xpm

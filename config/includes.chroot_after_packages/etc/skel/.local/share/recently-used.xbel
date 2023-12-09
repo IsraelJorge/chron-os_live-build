@@ -2262,4 +2262,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/gabriel/Downloads/eclipse-java-2023-09-R-linux-gtk-x86_64.tar.gz" added="2023-12-01T19:15:49.029164Z" modified="2023-12-01T19:15:49.029167Z" visited="2023-12-01T19:15:49.029164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-12-01T19:15:49.029166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gabriel/Downloads" added="2023-12-01T19:15:59.172551Z" modified="2023-12-01T19:19:53.580570Z" visited="2023-12-01T19:15:59.172552Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Gerenciador de compactação" exec="&apos;file-roller %u&apos;" modified="2023-12-01T19:19:53.580569Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gabriel/Downloads/eclipse-inst-jre-linux64.tar.gz" added="2023-12-01T19:19:46.025439Z" modified="2023-12-01T19:19:46.025442Z" visited="2023-12-01T19:19:46.025439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-12-01T19:19:46.025440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

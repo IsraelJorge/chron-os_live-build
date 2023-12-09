@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Eclipse Installer
+Exec=/home/gabriel/Downloads/eclipse-installer/eclipse-inst %u
+NoDisplay=true
+Categories=POO;
+Type=Application
+MimeType=x-scheme-handler/eclipse+installer;

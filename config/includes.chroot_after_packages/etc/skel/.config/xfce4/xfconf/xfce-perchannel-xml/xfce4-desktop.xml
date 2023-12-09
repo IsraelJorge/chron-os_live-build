@@ -50,6 +50,9 @@
   </property>
   <property name="last" type="empty">
     <property name="window-width" type="int" value="793"/>
-    <property name="window-height" type="int" value="577"/>
+    <property name="window-height" type="int" value="579"/>
+  </property>
+  <property name="desktop-icons" type="empty">
+    <property name="style" type="int" value="2"/>
   </property>
 </channel>

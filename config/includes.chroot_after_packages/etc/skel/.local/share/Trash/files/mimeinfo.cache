@@ -1,0 +1,11 @@
+[MIME Cache]
+application/x-pka=cisco-pt821.desktop;
+application/x-pks=cisco-pt821.desktop;
+application/x-pksz=cisco-pt821.desktop;
+application/x-pkt=cisco-pt821.desktop;
+application/x-pkz=cisco-pt821.desktop;
+x-scheme-handler/appstream=pamac.manager.desktop;
+x-scheme-handler/eclipse+command=eclipse_.desktop;
+x-scheme-handler/eclipse+installer=_home_gabriel_Downloads_eclipse-installer_.desktop;eclipse-installer_.desktop;
+x-scheme-handler/eclipse+mpc=eclipse_.desktop;
+x-scheme-handler/snap=pamac.manager.desktop;

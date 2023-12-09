@@ -1,0 +1,7 @@
+[Desktop Entry]
+ Version=1.0
+ Name=xampp
+ Exec=gksudo /opt/lampp/manager-linux-x64.run
+ Icon=/opt/lampp/icons/world1.png
+ Type=Application
+ Categories=Banco de Dados;Application

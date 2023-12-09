@@ -1,11 +1,15 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[85f17bb6-4f4e-4a11-af64-c04852b3f873]
+[/home/gabriel/Área de trabalho/terminal.desktop]
 row=4
 col=0
 
-[2023-10-07-10-32-09-00]
+[/home/gabriel/Área de trabalho/Eclipse IDE for Java Developers - 2023-09.desktop]
+row=0
+col=1
+
+[2023-11-26-21-32-04-00]
 row=3
 col=0
 
@@ -17,7 +21,7 @@ col=0
 row=1
 col=0
 
-[/home/chronos]
+[/home/gabriel]
 row=2
 col=0
 

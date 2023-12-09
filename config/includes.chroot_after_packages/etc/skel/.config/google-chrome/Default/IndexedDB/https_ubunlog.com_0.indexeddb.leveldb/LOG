@@ -1,0 +1,6 @@
+2023/11/28-15:53:47.836 56c Creating DB /home/gabriel/.config/google-chrome/Default/IndexedDB/https_ubunlog.com_0.indexeddb.leveldb since it was missing.
+2023/11/28-15:53:47.838 56c Reusing MANIFEST /home/gabriel/.config/google-chrome/Default/IndexedDB/https_ubunlog.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/28-16:53:58.095 56d Level-0 table #5: started
+2023/11/28-16:53:58.096 56d Level-0 table #5: 6363 bytes OK
+2023/11/28-16:53:58.097 56d Delete type=0 #3
+2023/11/28-16:53:58.097 56d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
