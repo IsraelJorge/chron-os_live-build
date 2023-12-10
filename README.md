@@ -1,5 +1,9 @@
 # Chron-OS Live Build
 
+<div  style="display: flex; align-items: center; justify-content: center;">
+   <img style="margin: 0 auto;"  src="./assets/logo.jpeg" width="300px">
+</div>
+
 Bem-vindo ao repositório da distro Linux Chron-OS, desenvolvida utilizando a ferramenta Live Build. Este projeto permite a criação de uma distribuição personalizada do Linux, ajustada às suas necessidades específicas.
 
 ## Sobre o Chron-OS
