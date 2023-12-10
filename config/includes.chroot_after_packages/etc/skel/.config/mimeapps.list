@@ -3,8 +3,8 @@ application/x-desktop=code.desktop;
 application/xml=code.desktop;
 inode/directory=xfce4-file-manager.desktop;
 x-scheme-handler/trash=xfce4-file-manager.desktop;
+text/plain=code.desktop;
 
 [Default Applications]
 inode/directory=xfce4-file-manager.desktop
 x-scheme-handler/trash=xfce4-file-manager.desktop
-

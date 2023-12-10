@@ -3,7 +3,7 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///" added="2023-11-21T22:57:54.371288Z" modified="2023-11-26T19:21:50.085013Z" visited="2023-11-21T22:57:54.371289Z">
+  <bookmark href="file:///" added="2023-11-21T22:57:54.371288Z" modified="2023-12-10T01:20:19.052181Z" visited="2023-11-21T22:57:54.371289Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
@@ -11,7 +11,7 @@
           <bookmark:group>baobab</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T19:21:50.085011Z" count="30"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:20:19.052133Z" count="33"/>
           <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2023-11-25T10:40:40.116988Z" count="1"/>
         </bookmark:applications>
       </metadata>
@@ -27,7 +27,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos" added="2023-11-21T22:57:57.597414Z" modified="2023-11-26T21:14:41.069109Z" visited="2023-11-21T22:57:57.597415Z">
+  <bookmark href="file:///home/chronos" added="2023-11-21T22:57:57.597414Z" modified="2023-12-10T00:25:49.589276Z" visited="2023-11-21T22:57:57.597415Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
@@ -35,18 +35,18 @@
           <bookmark:group>baobab</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:14:41.069108Z" count="83"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:25:49.589274Z" count="88"/>
           <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2023-11-25T10:40:14.495300Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/%C3%81rea%20de%20trabalho" added="2023-11-21T22:57:58.127118Z" modified="2023-11-26T21:14:40.550952Z" visited="2023-11-21T22:57:58.127120Z">
+  <bookmark href="file:///home/chronos/%C3%81rea%20de%20trabalho" added="2023-11-21T22:57:58.127118Z" modified="2023-12-10T00:25:36.508153Z" visited="2023-11-21T22:57:58.127120Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:14:40.550950Z" count="63"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:25:36.508152Z" count="65"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -132,12 +132,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/Downloads" added="2023-11-21T23:52:59.948702Z" modified="2023-11-26T21:02:42.195042Z" visited="2023-11-21T23:52:59.948704Z">
+  <bookmark href="file:///home/chronos/Downloads" added="2023-11-21T23:52:59.948702Z" modified="2023-12-10T00:17:58.238350Z" visited="2023-11-21T23:52:59.948704Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:02:42.195040Z" count="53"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:17:58.238348Z" count="56"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -305,12 +305,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/Documentos" added="2023-11-22T01:22:14.910585Z" modified="2023-11-26T21:01:08.849398Z" visited="2023-11-22T01:22:14.910586Z">
+  <bookmark href="file:///home/chronos/Documentos" added="2023-11-22T01:22:14.910585Z" modified="2023-12-09T23:27:13.435702Z" visited="2023-11-22T01:22:14.910586Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:01:08.849397Z" count="30"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-09T23:27:13.435700Z" count="31"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -335,22 +335,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.local" added="2023-11-22T01:41:33.709710Z" modified="2023-11-26T21:29:11.648235Z" visited="2023-11-22T01:41:33.709710Z">
+  <bookmark href="file:///home/chronos/.local" added="2023-11-22T01:41:33.709710Z" modified="2023-12-10T00:40:12.391581Z" visited="2023-11-22T01:41:33.709710Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:29:11.648233Z" count="16"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:12.391578Z" count="22"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.local/share" added="2023-11-22T01:41:34.714310Z" modified="2023-11-26T21:29:13.136002Z" visited="2023-11-22T01:41:34.714311Z">
+  <bookmark href="file:///home/chronos/.local/share" added="2023-11-22T01:41:34.714310Z" modified="2023-12-10T00:40:13.618493Z" visited="2023-11-22T01:41:34.714311Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:29:13.136000Z" count="16"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:13.618490Z" count="22"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -375,22 +375,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///usr" added="2023-11-22T02:00:06.478320Z" modified="2023-11-26T17:58:45.082245Z" visited="2023-11-22T02:00:06.478321Z">
+  <bookmark href="file:///usr" added="2023-11-22T02:00:06.478320Z" modified="2023-12-10T00:17:20.704791Z" visited="2023-11-22T02:00:06.478321Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T17:58:45.082244Z" count="7"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:17:20.704789Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///usr/share" added="2023-11-22T02:00:08.110992Z" modified="2023-11-26T17:58:59.788151Z" visited="2023-11-22T02:00:08.110993Z">
+  <bookmark href="file:///usr/share" added="2023-11-22T02:00:08.110992Z" modified="2023-12-10T00:17:28.959955Z" visited="2023-11-22T02:00:08.110993Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T17:58:59.788149Z" count="7"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:17:28.959953Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -415,12 +415,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.config" added="2023-11-22T02:52:26.650247Z" modified="2023-11-26T21:28:54.761321Z" visited="2023-11-22T02:52:26.650249Z">
+  <bookmark href="file:///home/chronos/.config" added="2023-11-22T02:52:26.650247Z" modified="2023-12-10T00:40:21.075786Z" visited="2023-11-22T02:52:26.650249Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:28:54.761319Z" count="27"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:21.075784Z" count="32"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -795,22 +795,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.local/share/applications" added="2023-11-22T10:29:02.947932Z" modified="2023-11-26T17:57:51.777243Z" visited="2023-11-22T10:29:02.947933Z">
+  <bookmark href="file:///home/chronos/.local/share/applications" added="2023-11-22T10:29:02.947932Z" modified="2023-12-10T00:25:13.656727Z" visited="2023-11-22T10:29:02.947933Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T17:57:51.777241Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:25:13.656726Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.local/share/applications/Launchpad.desktop" added="2023-11-22T10:29:04.526495Z" modified="2023-11-26T17:57:53.654233Z" visited="2023-11-22T10:29:04.526496Z">
+  <bookmark href="file:///home/chronos/.local/share/applications/Launchpad.desktop" added="2023-11-22T10:29:04.526495Z" modified="2023-12-09T23:35:03.838914Z" visited="2023-11-22T10:29:04.526496Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-desktop"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T17:57:53.654232Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-09T23:35:03.838914Z" count="11"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1065,42 +1065,42 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.config/xfce4" added="2023-11-24T10:34:56.088400Z" modified="2023-11-26T13:02:42.288110Z" visited="2023-11-24T10:34:56.088401Z">
+  <bookmark href="file:///home/chronos/.config/xfce4" added="2023-11-24T10:34:56.088400Z" modified="2023-12-10T00:40:24.627751Z" visited="2023-11-24T10:34:56.088401Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T13:02:42.288107Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:24.627749Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.config/xfce4/xfconf" added="2023-11-24T10:34:58.262774Z" modified="2023-11-26T13:02:43.926944Z" visited="2023-11-24T10:34:58.262775Z">
+  <bookmark href="file:///home/chronos/.config/xfce4/xfconf" added="2023-11-24T10:34:58.262774Z" modified="2023-12-10T00:40:26.393292Z" visited="2023-11-24T10:34:58.262775Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T13:02:43.926942Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:26.393290Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml" added="2023-11-24T10:35:00.487786Z" modified="2023-11-26T13:02:44.767514Z" visited="2023-11-24T10:35:00.487787Z">
+  <bookmark href="file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml" added="2023-11-24T10:35:00.487786Z" modified="2023-12-10T00:40:27.315338Z" visited="2023-11-24T10:35:00.487787Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T13:02:44.767512Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:27.315334Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" added="2023-11-24T10:36:08.015673Z" modified="2023-11-26T13:03:36.353716Z" visited="2023-11-24T10:36:08.015674Z">
+  <bookmark href="file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" added="2023-11-24T10:36:08.015673Z" modified="2023-12-10T00:40:31.977850Z" visited="2023-11-24T10:36:08.015674Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/xml"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T13:03:36.353713Z" count="8"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:40:31.977847Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1155,12 +1155,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro" added="2023-11-25T11:52:46.177662Z" modified="2023-11-26T15:26:50.512161Z" visited="2023-11-25T11:52:46.177663Z">
+  <bookmark href="file:///media/chronos/test/distro" added="2023-11-25T11:52:46.177662Z" modified="2023-12-10T01:37:38.666082Z" visited="2023-11-25T11:52:46.177663Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T15:26:50.512159Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:37:38.666080Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1178,32 +1178,32 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config" added="2023-11-25T12:19:33.708303Z" modified="2023-11-26T12:57:42.679822Z" visited="2023-11-25T12:19:33.708303Z">
+  <bookmark href="file:///media/chronos/test/distro/config" added="2023-11-25T12:19:33.708303Z" modified="2023-12-10T01:37:51.654282Z" visited="2023-11-25T12:19:33.708303Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:42.679820Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:37:51.654280Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt" added="2023-11-25T21:16:30.207525Z" modified="2023-11-26T19:24:02.632516Z" visited="2023-11-25T21:16:30.207526Z">
+  <bookmark href="file:///mnt" added="2023-11-25T21:16:30.207525Z" modified="2023-12-10T01:20:33.745394Z" visited="2023-11-25T21:16:30.207526Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T19:24:02.632515Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:20:33.745393Z" count="12"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/hgfs" added="2023-11-25T21:16:31.511799Z" modified="2023-11-26T19:24:04.112640Z" visited="2023-11-25T21:16:31.511800Z">
+  <bookmark href="file:///mnt/hgfs" added="2023-11-25T21:16:31.511799Z" modified="2023-12-10T01:21:01.567416Z" visited="2023-11-25T21:16:31.511800Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T19:24:04.112638Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:21:01.567413Z" count="13"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1779,72 +1779,72 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages" added="2023-11-26T12:57:47.465268Z" modified="2023-11-26T12:57:47.465272Z" visited="2023-11-26T12:57:47.465269Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages" added="2023-11-26T12:57:47.465268Z" modified="2023-12-10T01:37:58.246592Z" visited="2023-11-26T12:57:47.465269Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:47.465270Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:37:58.246591Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc" added="2023-11-26T12:57:48.861004Z" modified="2023-11-26T12:57:48.861008Z" visited="2023-11-26T12:57:48.861005Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc" added="2023-11-26T12:57:48.861004Z" modified="2023-12-10T01:37:59.516502Z" visited="2023-11-26T12:57:48.861005Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:48.861006Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:37:59.516500Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg" added="2023-11-26T12:57:50.546180Z" modified="2023-11-26T12:57:50.546184Z" visited="2023-11-26T12:57:50.546181Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg" added="2023-11-26T12:57:50.546180Z" modified="2023-12-10T00:39:45.739806Z" visited="2023-11-26T12:57:50.546181Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:50.546182Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:39:45.739804Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4" added="2023-11-26T12:57:51.651677Z" modified="2023-11-26T12:57:51.651682Z" visited="2023-11-26T12:57:51.651679Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4" added="2023-11-26T12:57:51.651677Z" modified="2023-12-10T00:39:47.078358Z" visited="2023-11-26T12:57:51.651679Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:51.651680Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:39:47.078356Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf" added="2023-11-26T12:57:52.443892Z" modified="2023-11-26T12:57:52.443898Z" visited="2023-11-26T12:57:52.443894Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf" added="2023-11-26T12:57:52.443892Z" modified="2023-12-10T00:39:47.812169Z" visited="2023-11-26T12:57:52.443894Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:52.443895Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:39:47.812167Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml" added="2023-11-26T12:57:53.179083Z" modified="2023-11-26T12:57:53.179087Z" visited="2023-11-26T12:57:53.179084Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml" added="2023-11-26T12:57:53.179083Z" modified="2023-12-10T00:39:48.517288Z" visited="2023-11-26T12:57:53.179084Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:53.179085Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:39:48.517286Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" added="2023-11-26T12:57:53.979103Z" modified="2023-11-26T12:57:53.979107Z" visited="2023-11-26T12:57:53.979104Z">
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" added="2023-11-26T12:57:53.979103Z" modified="2023-12-10T00:39:52.218733Z" visited="2023-11-26T12:57:53.979104Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/xml"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T12:57:53.979105Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:39:52.218731Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1922,12 +1922,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/chronos/.config/applications" added="2023-11-26T13:06:03.313395Z" modified="2023-11-26T13:06:03.313398Z" visited="2023-11-26T13:06:03.313395Z">
+  <bookmark href="file:///home/chronos/.config/applications" added="2023-11-26T13:06:03.313395Z" modified="2023-12-10T00:25:00.643227Z" visited="2023-11-26T13:06:03.313395Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T13:06:03.313396Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:25:00.643225Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2102,12 +2102,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/hgfs/iso" added="2023-11-26T15:33:03.408926Z" modified="2023-11-26T15:33:09.969611Z" visited="2023-11-26T15:33:03.408927Z">
+  <bookmark href="file:///mnt/hgfs/iso" added="2023-11-26T15:33:03.408926Z" modified="2023-12-10T01:21:03.075612Z" visited="2023-11-26T15:33:03.408927Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T15:33:09.969608Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:21:03.075610Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2258,6 +2258,228 @@
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T21:27:33.134625Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/gnome-terminal" added="2023-11-26T22:52:07.869334Z" modified="2023-11-26T22:52:07.869337Z" visited="2023-11-26T22:52:07.869335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T22:52:07.869336Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/gnome-terminal/dracula-pro.png" added="2023-11-26T22:52:09.530943Z" modified="2023-11-26T22:52:09.530949Z" visited="2023-11-26T22:52:09.530944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T22:52:09.530946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/gnome-terminal/src" added="2023-11-26T22:52:13.150912Z" modified="2023-11-26T22:52:13.150915Z" visited="2023-11-26T22:52:13.150912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-11-26T22:52:13.150913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/lib/dpkg/lock" added="2023-12-09T22:45:25.138797Z" modified="2023-12-09T22:45:25.138801Z" visited="2023-12-09T22:45:25.138798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-09T22:45:25.138799Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/Downloads/CiscoPacketTracer_821_Ubuntu_64bit.deb" added="2023-12-09T23:28:21.188701Z" modified="2023-12-09T23:28:21.188706Z" visited="2023-12-09T23:28:21.188702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-09T23:28:21.188703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.local/share/desktop-directories" added="2023-12-09T23:30:48.655414Z" modified="2023-12-10T00:25:58.625181Z" visited="2023-12-09T23:30:48.655415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:25:58.625179Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.local/share/desktop-directories/bd.directory" added="2023-12-09T23:30:50.194754Z" modified="2023-12-10T00:35:31.459873Z" visited="2023-12-09T23:30:50.194756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:35:31.459871Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/Downloads/StarUML_6.0.1_amd64.deb" added="2023-12-09T23:40:00.970722Z" modified="2023-12-09T23:40:00.970726Z" visited="2023-12-09T23:40:00.970723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-12-09T23:40:00.970724Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.local/share/applications/code.desktop" added="2023-12-10T00:13:57.259180Z" modified="2023-12-10T00:26:26.129381Z" visited="2023-12-10T00:13:57.259180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:26:26.129380Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.local/share/applications/cisco-pt821.desktop" added="2023-12-10T00:14:01.777737Z" modified="2023-12-10T00:14:01.777749Z" visited="2023-12-10T00:14:01.777738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:14:01.777749Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/src" added="2023-12-10T00:17:24.592201Z" modified="2023-12-10T00:17:24.592205Z" visited="2023-12-10T00:17:24.592202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:17:24.592204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.local/share/desktop-directories/pg.directory" added="2023-12-10T00:26:04.453631Z" modified="2023-12-10T00:26:06.585058Z" visited="2023-12-10T00:26:04.453631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:26:04.453636Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.4" exec="&apos;soffice %u&apos;" modified="2023-12-10T00:26:06.585055Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.local/share/desktop-directories/es.directory" added="2023-12-10T00:28:52.149469Z" modified="2023-12-10T00:37:29.837905Z" visited="2023-12-10T00:28:52.149470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.4" exec="&apos;soffice %u&apos;" modified="2023-12-10T00:37:29.837903Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.config/menus" added="2023-12-10T00:29:53.137347Z" modified="2023-12-10T00:31:01.554613Z" visited="2023-12-10T00:29:53.137347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:31:01.554610Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chronos/.config/menus/xfce-applications.menu" added="2023-12-10T00:31:04.798024Z" modified="2023-12-10T00:31:25.624040Z" visited="2023-12-10T00:31:04.798025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.4" exec="&apos;soffice %u&apos;" modified="2023-12-10T00:31:09.096496Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T00:31:25.624037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///m" added="2023-12-10T01:20:21.549748Z" modified="2023-12-10T01:20:21.549757Z" visited="2023-12-10T01:20:21.549749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:20:21.549752Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/skel" added="2023-12-10T01:38:00.486218Z" modified="2023-12-10T01:38:00.486223Z" visited="2023-12-10T01:38:00.486219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:38:00.486221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/skel/.config" added="2023-12-10T01:38:03.085157Z" modified="2023-12-10T01:40:37.261527Z" visited="2023-12-10T01:38:03.085157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:40:37.261525Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/skel/.config/applications" added="2023-12-10T01:40:38.900926Z" modified="2023-12-10T01:40:38.900930Z" visited="2023-12-10T01:40:38.900927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:40:38.900928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/skel/.local" added="2023-12-10T01:40:55.780593Z" modified="2023-12-10T01:40:55.780597Z" visited="2023-12-10T01:40:55.780594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:40:55.780595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/skel/.local/share" added="2023-12-10T01:40:57.108244Z" modified="2023-12-10T01:40:57.108248Z" visited="2023-12-10T01:40:57.108245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:40:57.108246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/skel/.local/share/applications" added="2023-12-10T01:40:59.038046Z" modified="2023-12-10T01:40:59.038050Z" visited="2023-12-10T01:40:59.038047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-12-10T01:40:59.038048Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

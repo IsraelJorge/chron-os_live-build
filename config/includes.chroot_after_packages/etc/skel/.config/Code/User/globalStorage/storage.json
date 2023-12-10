@@ -2,10 +2,11 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///media/chronos/6bb85858-8a60-4896-9979-c87de997086d": "__default__profile__"
+            "file:///media/chronos/6bb85858-8a60-4896-9979-c87de997086d": "__default__profile__",
+            "file:///home/chronos/.local/share/applications": "__default__profile__"
         },
         "emptyWindows": {
-            "1701034054603": "__default__profile__"
+            "1702168286507": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -16,7 +17,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1701034054603"
+                "backupFolder": "1702168286507"
             }
         ]
     },
@@ -68,6 +69,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/chronos/.local/share/applications",
+                                        "path": "/home/chronos/.local/share/applications",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local/share/applications"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///media/chronos/6bb85858-8a60-4896-9979-c87de997086d",
                                         "path": "/media/chronos/6bb85858-8a60-4896-9979-c87de997086d",
                                         "scheme": "file"
@@ -77,6 +89,61 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+                                        "path": "/home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+                                        "path": "/media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/chronos/test/distro/config/includes.chroot_after_packages/etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chronos/.local/share/desktop-directories/bd.directory",
+                                        "path": "/home/chronos/.local/share/desktop-directories/bd.directory",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local/share/desktop-directories/bd.directory"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chronos/.config/menus/xfce-applications.menu",
+                                        "path": "/home/chronos/.config/menus/xfce-applications.menu",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/menus/xfce-applications.menu"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chronos/.local/share/applications/code.desktop",
+                                        "path": "/home/chronos/.local/share/applications/code.desktop",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local/share/applications/code.desktop"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -134,61 +201,6 @@
                                     "label": "~/.config/Thunar/uca.xml"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/chronos/.config/user-dirs.dirs",
-                                        "path": "/home/chronos/.config/user-dirs.dirs",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/user-dirs.dirs"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/chronos/Downloads/papirus-icon-theme/uninstall.sh",
-                                        "path": "/home/chronos/Downloads/papirus-icon-theme/uninstall.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/papirus-icon-theme/uninstall.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/chronos/Downloads/papirus-icon-theme/install.sh",
-                                        "path": "/home/chronos/Downloads/papirus-icon-theme/install.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/papirus-icon-theme/install.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/chronos/.oh-my-zsh/oh-my-zsh.sh",
-                                        "path": "/home/chronos/.oh-my-zsh/oh-my-zsh.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.oh-my-zsh/oh-my-zsh.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
-                                        "path": "/home/chronos/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -200,7 +212,7 @@
                                 },
                                 {
                                     "id": "workbench.action.clearRecentFiles",
-                                    "label": "&&Clear Recently Opened"
+                                    "label": "&&Clear Recently Opened..."
                                 }
                             ]
                         }
@@ -591,6 +603,10 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.toggleSidebarPosition",
+                                    "label": "&&Move Primary Side Bar Right"
+                                },
+                                {
                                     "id": "submenuitem.ActivityBarPositionMenu",
                                     "label": "Activity Bar Position",
                                     "submenu": {
@@ -606,10 +622,6 @@
                                             }
                                         ]
                                     }
-                                },
-                                {
-                                    "id": "workbench.action.toggleSidebarPosition",
-                                    "label": "&&Move Primary Side Bar Right"
                                 },
                                 {
                                     "id": "submenuitem.PanelPositionMenu",
@@ -673,7 +685,24 @@
                                             },
                                             {
                                                 "id": "workbench.action.hideEditorTabs",
-                                                "label": "Hide"
+                                                "label": "Hidden"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "submenuitem.EditorActionsPositionSubmenu",
+                                    "label": "Editor Actions Position",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.editorActionsDefault",
+                                                "label": "Tab Bar",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.hideEditorActions",
+                                                "label": "Hidden"
                                             }
                                         ]
                                     }
@@ -750,6 +779,17 @@
                                 {
                                     "id": "workbench.action.splitEditorInGroup",
                                     "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.moveEditorToNewWindow",
+                                    "label": "&&Move Editor into New Window"
+                                },
+                                {
+                                    "id": "workbench.action.copyEditorToNewWindow",
+                                    "label": "&&Copy Editor into New Window"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -851,7 +891,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1771,13 +1812,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/chronos/.config/Code/Backups/1701034054603",
+            "backupPath": "/home/chronos/.config/Code/Backups/1702168286507",
             "uiState": {
                 "mode": 0,
                 "x": 0,
-                "y": 70,
+                "y": 72,
                 "width": 2558,
-                "height": 901
+                "height": 899
             }
         },
         "openedWindows": []
